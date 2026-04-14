@@ -1,3 +1,5 @@
+# About the Game
+
 This is a little Hardcoded game i did myself, coded in C# with visual Studios. Game runs on no Engine.
 
 Dungeon Hunter is a single-player fantasy RPG where you start by surviving a brutal dungeon and slowly uncover that the world above it is just as dangerous. You fight monsters, bosses, and hidden endgame threats, collect gear, level classes and abilities, tame companions, and build your strength across both dungeon runs and overworld progression.
