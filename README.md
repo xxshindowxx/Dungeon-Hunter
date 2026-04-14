@@ -8,6 +8,16 @@
 
   It is best described as a progression-heavy console RPG that mixes dungeon crawling, world lore, kingdom politics, hidden routes, and long-term character growth.
 
+  # How to Play
+
+  - download the folder and open the .exe
+    - the game will save the game in the folder saves
+
+ 
+ - **Disclaimer**
+  i will work on this as i like so there could be updates and there could not be updates. i also do not share the code since i´m thinking of selling this game in the future.
+  i still hope you will have fun playing it ^-^
+
 
   # Updates
 
