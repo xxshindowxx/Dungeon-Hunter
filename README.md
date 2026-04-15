@@ -22,6 +22,14 @@
 
   # Updates
 
+- **15.04.2026: v0.2**
+
+  - added Rare Dungeon Rooms, Companion Quests and Equipment, Arena/Boss rematch Hall, Weapon Mastery, Secret Classes, Rival System, Travel Events, Festivals and Crises, House Staff Missions, Reputaion Perks, Coup option, Corruption and hidden power, New Game Plus option in the start menu after completing a game run.
+  - New Realm that unlocks after defeating the Demon King
+  - Added Libary: Evermore Libary can be found in the Evermore Kingdom, this libary contains every information in the game. Player also has a libary where information is added when the player gets new information aobut the lore etc.
+  - Fixed Inventory and other menus, now having sub categories for it so it doesn´t overlap anymore
+  - Fixed bug with the Blackmarked not being shown when starting with secret start
+
 - **14.04.2026: v0.1**
 
-    added Game to Github and named the version "v0.1"
+    - added Game to Github and named the version "v0.1"
