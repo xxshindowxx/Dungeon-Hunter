@@ -22,6 +22,14 @@
 
   # Updates
 
+- **19.04.2026: v0.3**
+
+  - Whats New: Faction Headquarters, Companion Betrayal/Loyalty Threshold, City takeover aftermath chains, Libary drive relic hunts, Post God Killer ruler resistance scenes, Dungeon faction headquarters, Kingdom specific army questlines, Home staff specialization, Libary category completion quest rewards, Companion + Kingdom crossover events, New Game Plus world mutations, Floor Bands, Room Objective variety, Mini Arcs inside runs, Floor mutators, Persistent dungeon state, Dungeon Jobs, Corruption Track before Floor 50, Deeper archive rooms
+ 
+  - Fixes: Weapon range now allows Players to also test the abillities
+    
+  - Hint: "Minute XXX" in mission return time does not count as Realtime time. This time is tied to the games/player movement, meaning that the timer goes down with interactions the player does.
+
 - **15.04.2026: v0.2**
 
   - added Rare Dungeon Rooms, Companion Quests and Equipment, Arena/Boss rematch Hall, Weapon Mastery, Secret Classes, Rival System, Travel Events, Festivals and Crises, House Staff Missions, Reputaion Perks, Coup option, Corruption and hidden power, New Game Plus option in the start menu after completing a game run.
